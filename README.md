@@ -1,4 +1,4 @@
-## Semi-supervised Learning for Medical Image Segmentation (**SSL4MIS**)
+## Code for CCRPS
 
 
 # Usage
